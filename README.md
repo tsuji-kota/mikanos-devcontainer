@@ -26,3 +26,6 @@
 # バグ, 要望
 
 [Twitter (@A1ces)](https://twitter.com/A1ces) や [Issues](https://github.com/sarisia/mikanos-devcontainer/issues) で教えてくださると嬉しいです！
+
+# 著者
+[Takakazu Fu](https://github.com/sarisia)
